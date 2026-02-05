@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "ChatGPT",
+    "description": "OpenAI's state-of-the-art conversational AI model capable of understanding and generating natural language.",
+    "category": "Chatbots",
+    "url": "https://chat.openai.com",
+    "pricing": "Freemium"
+  },
+  {
+    "id": "2",
+    "name": "Midjourney",
+    "description": "An AI program that creates images from textual descriptions, similar to OpenAI's DALL-E and Stable Diffusion.",
+    "category": "Image Generation",
+    "url": "https://www.midjourney.com",
+    "pricing": "Paid"
+  },
+  {
+    "id": "3",
+    "name": "Claude",
+    "description": "A next-generation AI assistant built for work and trained to be safe, accurate, and secure.",
+    "category": "Chatbots",
+    "url": "https://claude.ai",
+    "pricing": "Freemium"
+  },
+  {
+    "id": "4",
+    "name": "GitHub Copilot",
+    "description": "Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time.",
+    "category": "Coding Assistant",
+    "url": "https://github.com/features/copilot",
+    "pricing": "Paid"
+  },
+  {
+    "id": "5",
+    "name": "Perplexity AI",
+    "description": "An AI-powered search engine that provides accurate, up-to-date answers with citations.",
+    "category": "Search Engine",
+    "url": "https://www.perplexity.ai",
+    "pricing": "Freemium"
+  },
+  {
+    "id": "6",
+    "name": "Runway",
+    "description": "Applied AI research company building the next generation of creativity tools for video and image generation.",
+    "category": "Video Generation",
+    "url": "https://runwayml.com",
+    "pricing": "Freemium"
+  },
+  {
+    "id": "7",
+    "name": "Jasper",
+    "description": "AI marketing copilot that helps enterprise teams create high-quality content faster.",
+    "category": "Writing",
+    "url": "https://www.jasper.ai",
+    "pricing": "Paid"
+  },
+  {
+    "id": "8",
+    "name": "Hugging Face",
+    "description": "The AI community building the future. Build, train and deploy state of the art models powered by the reference open source in machine learning.",
+    "category": "Platform",
+    "url": "https://huggingface.co",
+    "pricing": "Free"
+  }
+]
