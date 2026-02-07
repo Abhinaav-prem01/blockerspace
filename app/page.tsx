@@ -1,11 +1,12 @@
 import { ToolCard } from "@/components/ToolCard";
 import { Plus } from "lucide-react";
 import Link from "next/link";
-import { prisma } from "@/lib/prisma";
+import { getPrisma } from "@/lib/prisma";
 import ClientSearch from "./client-search";
 
 // Helper to get tools server-side
 async function getTools() {
+  const prisma = getPrisma();
   const tools = await prisma.tool.findMany({
     orderBy: { createdAt: "desc" },
   });
